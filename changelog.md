@@ -6,3 +6,7 @@
 - Safety and onchain idea docs
 - Creator templates
 - Mini-project planned
+## Day 3
+- Farcaster content guide and plan
+- Shipping checklist
+- Templates expanded
