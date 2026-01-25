@@ -2,3 +2,5 @@
 
 This kit is designed for creators building on Base:
 learn, ship small things, and document progress publicly.
+## Principle
+Ship small, ship often, document everything.
