@@ -10,3 +10,7 @@ Day 4: share a checklist
 Day 5: mini-tutorial
 Day 6: progress recap
 Day 7: what’s next
+## Engagement Rules
+- Reply with substance
+- Avoid repeating the same text
+- Share what you learned, not hype
