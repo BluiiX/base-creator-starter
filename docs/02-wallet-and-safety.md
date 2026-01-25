@@ -7,3 +7,5 @@
 - Verify official sources
 - Avoid unknown approvals
 - Keep notes of what you interacted with
+## Reminder
+If unsure, don’t sign. Ask first and verify sources.
