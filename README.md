@@ -9,3 +9,7 @@ docs, templates, and a mini-project roadmap.
 - mini-project/ — a small project idea + roadmap
 - notes/ — daily creator logs
 Commit 6
+## Start Here
+- docs/01-getting-started.md
+- docs/05-shipping-checklist.md
+- templates/cast-templates.md
