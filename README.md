@@ -13,3 +13,7 @@ Commit 6
 - docs/01-getting-started.md
 - docs/05-shipping-checklist.md
 - templates/cast-templates.md
+## How I use this repo
+- Update one doc or template daily
+- Log progress in notes/
+- Share a short post using templates/
