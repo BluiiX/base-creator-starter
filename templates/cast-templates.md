@@ -14,3 +14,14 @@ What’s the best way to ___?
 1) ___
 2) ___
 3) ___
+## 10 Quick Prompts
+1) “Today I learned ___ about Base…”
+2) “I’m building ___, MVP is ___”
+3) “Best tool for ___ on Base?”
+4) “Mistake I made today + fix…”
+5) “If you’re new: do this first…”
+6) “Here’s my 3-step checklist…”
+7) “One small win today…”
+8) “One thing that confused me…”
+9) “What should I build next?”
+10) “Weekly recap: shipped ___”
