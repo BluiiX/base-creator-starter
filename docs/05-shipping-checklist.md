@@ -10,3 +10,7 @@ Before posting:
 - Why it matters: ___
 - What I learned: ___
 - Next: ___
+## Final Review
+- No broken links
+- Clear headings
+- One actionable next step
