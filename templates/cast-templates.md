@@ -25,3 +25,9 @@ What’s the best way to ___?
 8) “One thing that confused me…”
 9) “What should I build next?”
 10) “Weekly recap: shipped ___”
+## 5 Short Formats
+1) Ship: ___ / Learn: ___ / Next: ___
+2) Mistake: ___ / Fix: ___
+3) Question: best way to ___ on Base?
+4) 3 steps: ___ / ___ / ___
+5) Weekly: shipped ___, learned ___, next ___
