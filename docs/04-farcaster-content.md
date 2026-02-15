@@ -14,3 +14,9 @@ Day 7: what’s next
 - Reply with substance
 - Avoid repeating the same text
 - Share what you learned, not hype
+## Content Pillars
+- Build logs (what shipped)
+- Lessons learned (what changed)
+- Questions (ask builders)
+- Mini-tutorials (3 steps)
+- Progress recap (weekly)
